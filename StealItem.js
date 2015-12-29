@@ -3,13 +3,12 @@
 //=============================================================================
 
 /*:
- * @plugindesc Calling will dynamically create a random character and add to team.
+ * @plugindesc Calling will allow you to steal an item from a random enemy in your encounter
  * @author David Gill
  *
  *
  * @help This plugin does not provide plugin commands.
  *
- * Showing you can have characters that are completely random.
  */
 
 /*:ja
