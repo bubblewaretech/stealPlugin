@@ -6,3 +6,6 @@ RPGMaker MV plugin to allow a character to steal.  Note this steals items that h
 * I'd like to add some random luck multiplier but not yet.
 
 ## USAGE
+* inlcud js file in your plugins directory
+* Create common event "steal" with plugin command "StealItem"
+* Create skill that calls common event "steal" you created with previous step.
